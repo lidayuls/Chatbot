@@ -21,7 +21,7 @@
     </tr>
 </table>
 
-或者
+或者 从[tablesgenerator][tablesgenerator]复制
 
 | 语文  | 7:00-7:40 | 7:50-8:30 |
 |-------|-----------|-----------|
@@ -68,6 +68,6 @@ Dayu Li's picture ![1][pic1]
 
 [pic1]:/images/1.jpg
 [homepage]:https://lidayuls.github.io/
-
+[tablesgenerator]:http://www.tablesgenerator.com/markdown_tables
 
 
