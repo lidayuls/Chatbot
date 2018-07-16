@@ -72,11 +72,13 @@ CodeCogs 提供了一个[在线 LaTeX 编辑器][eqneditor]，可以将输入的
 
 <img src="https://latex.codecogs.com/gif.latex?p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}" title="p(x|y) = \frac{{p(x,y)}}{{p(y)}} = \frac{{p(y|x)p(x)}}{{p(y)}}" />
 
+[formula][formula]
 
 [pic1]:/images/1.jpg
 [homepage]:https://lidayuls.github.io/
 [tablesgenerator]:http://www.tablesgenerator.com/markdown_tables
 [eqneditor]:https://www.codecogs.com/latex/eqneditor.php
+[formula]:https://latex.codecogs.com/gif.latex?p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}
 
     [pic1]:/images/1.jpg
     [homepage]:https://lidayuls.github.io/
