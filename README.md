@@ -65,9 +65,7 @@ Dayu Li's picture ![1][pic1]
 
 # 公式
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$ 
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\) 
+<a href="https://www.codecogs.com/eqnedit.php?latex=a/b\prod" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a/b\prod" title="a/b\prod" /></a>
 
 
 [pic1]:/images/1.jpg
