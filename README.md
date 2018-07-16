@@ -76,6 +76,8 @@ Dayu Li's Homepage [here][homepage]
 GitHub Flavored Markdown 曾经是支持 LaTeX 的，但是现在不支持了……因此若想在 README 或者评论中插入数学公式，就得使用另外的方式。
 CodeCogs 提供了一个[在线 LaTeX 编辑器][eqneditor]，可以将输入的数学公式转换为图片，并自动生成 HTML 代码（也支持其他格式）。复制其HTML代码即可。
 
+或者生成 URL_encoded 然后设置url引用成图片即可
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}" title="p(x|y) = \frac{{p(x,y)}}{{p(y)}} = \frac{{p(y|x)p(x)}}{{p(y)}}" /></a>
 
 <img src="https://latex.codecogs.com/gif.latex?p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}" title="p(x|y) = \frac{{p(x,y)}}{{p(y)}} = \frac{{p(y|x)p(x)}}{{p(y)}}" />
