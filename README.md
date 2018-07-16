@@ -82,12 +82,14 @@ CodeCogs 提供了一个[在线 LaTeX 编辑器][eqneditor]，可以将输入的
 
 ![formula][formula]
 
+![formula_encoded][formula_encoded]
+
 [pic1]:/images/1.jpg
 [homepage]:https://lidayuls.github.io/
 [tablesgenerator]:http://www.tablesgenerator.com/markdown_tables
 [eqneditor]:https://www.codecogs.com/latex/eqneditor.php
 [formula]:https://latex.codecogs.com/gif.latex?p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}
-
+[formula_encoded]:https://latex.codecogs.com/gif.latex?p%28x%7Cy%29%20%3D%20%5Cfrac%7B%7Bp%28x%2Cy%29%7D%7D%7B%7Bp%28y%29%7D%7D%20%3D%20%5Cfrac%7B%7Bp%28y%7Cx%29p%28x%29%7D%7D%7B%7Bp%28y%29%7D%7D
     [pic1]:/images/1.jpg
     [homepage]:https://lidayuls.github.io/
     [tablesgenerator]:http://www.tablesgenerator.com/markdown_tables
