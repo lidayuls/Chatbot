@@ -22,3 +22,27 @@
 </table>
 
 
+# 表格图片
+
+<table >
+    <tr>
+        <td>
+        <img width="200" src='/images/1.jpg' alt='1'>
+        </td>
+        <td>
+        <img width="200" src='/images/2.jpg' alt='2'>
+        </td>
+    </tr>
+    <tr>
+        <td><a href='https://lidayuls.github.io/'>Dayu Li</a> <br>
+        Shanxi University</td>
+        
+        <td> ... </td>
+    </tr>
+  </table>
+
+
+
+
+
+
