@@ -65,14 +65,20 @@ Dayu Li's picture ![1][pic1]
 
 # 公式
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=a/b\prod" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a/b\prod" title="a/b\prod" /></a>
+GitHub Flavored Markdown 曾经是支持 LaTeX 的，但是现在不支持了……因此若想在 README 或者评论中插入数学公式，就得使用另外的方式。
+CodeCogs 提供了一个[在线 LaTeX 编辑器][eqneditor]，可以将输入的数学公式转换为图片，并自动生成 HTML 代码（也支持其他格式）。复制其HTML代码即可。
+<a href="https://www.codecogs.com/eqnedit.php?latex=p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}" title="p(x|y) = \frac{{p(x,y)}}{{p(y)}} = \frac{{p(y|x)p(x)}}{{p(y)}}" /></a>
+
+
 
 
 [pic1]:/images/1.jpg
 [homepage]:https://lidayuls.github.io/
 [tablesgenerator]:http://www.tablesgenerator.com/markdown_tables
-
+[eqneditor]:https://www.codecogs.com/latex/eqneditor.php
 
     [pic1]:/images/1.jpg
     [homepage]:https://lidayuls.github.io/
     [tablesgenerator]:http://www.tablesgenerator.com/markdown_tables
+    [eqneditor]:https://www.codecogs.com/latex/eqneditor.php
+
