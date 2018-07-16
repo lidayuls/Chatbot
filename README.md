@@ -47,7 +47,7 @@ Dayu Li's Homepage [here][homepage]
 
 # 图片
 
-Dayu Li's picture [1][pic1]
+Dayu Li's picture ![1][pic1]
 
 
 
