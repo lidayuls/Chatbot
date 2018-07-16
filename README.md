@@ -27,10 +27,10 @@
 <table >
     <tr>
         <td>
-        <img width="200" src='/images/1.jpg' alt='1'>
+        <img width="200" class='im-speaker-pic' src='/images/1.jpg' alt='1'>
         </td>
         <td>
-        <img width="200" src='/images/2.jpg' alt='2'>
+        <img width="200" class='im-speaker-pic' src='/images/2.jpg' alt='2'>
         </td>
     </tr>
     <tr>
@@ -45,6 +45,9 @@
 
 Dayu Li's Homepage [here][homepage]
 
+# 图片
+
+Dayu Li's picture [1][pic1]
 
 
 
@@ -53,8 +56,7 @@ Dayu Li's Homepage [here][homepage]
 
 
 
-
-
+[pic1]:/images/1.jpg
 [homepage]:https://lidayuls.github.io/
 
 
