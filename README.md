@@ -71,3 +71,6 @@ Dayu Li's picture ![1][pic1]
 [tablesgenerator]:http://www.tablesgenerator.com/markdown_tables
 
 
+    [pic1]:/images/1.jpg
+    [homepage]:https://lidayuls.github.io/
+    [tablesgenerator]:http://www.tablesgenerator.com/markdown_tables
