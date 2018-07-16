@@ -65,7 +65,22 @@ Dayu Li's picture ![1][pic1]
 
 # 公式
 
-\[ \frac{1}{3}　 \]
+$$
+f\left(
+   \left[ 
+     \frac{
+       1+\left\{x,y\right\}
+     }{
+       \left(
+          \frac{x}{y}+\frac{y}{x}
+       \right)
+       \left(u+1\right)
+     }+a
+   \right]^{3/2}
+\right)
+\tag{行标}
+$$
+
 
 [pic1]:/images/1.jpg
 [homepage]:https://lidayuls.github.io/
