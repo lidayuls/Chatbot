@@ -24,7 +24,7 @@
 
 # 表格图片
 
-<table >
+<table>
     <tr>
         <td>
         <img width="200" class='im-speaker-pic' src='/images/1.jpg' alt='1'>
@@ -38,7 +38,7 @@
         Shanxi University</td>
         <td> ... </td>
     </tr>
-  </table>
+</table>
 
 
 # 链接
