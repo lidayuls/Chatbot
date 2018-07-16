@@ -70,7 +70,7 @@ CodeCogs 提供了一个[在线 LaTeX 编辑器][eqneditor]，可以将输入的
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}" title="p(x|y) = \frac{{p(x,y)}}{{p(y)}} = \frac{{p(y|x)p(x)}}{{p(y)}}" /></a>
 
-
+<img src="https://latex.codecogs.com/gif.latex?p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}" title="p(x|y) = \frac{{p(x,y)}}{{p(y)}} = \frac{{p(y|x)p(x)}}{{p(y)}}" />
 
 
 [pic1]:/images/1.jpg
