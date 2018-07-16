@@ -65,7 +65,7 @@ Dayu Li's picture ![1][pic1]
 
 # 公式
 
-$$$$
+$$a\b$$
 
 
 [pic1]:/images/1.jpg
