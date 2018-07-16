@@ -55,9 +55,10 @@ Dayu Li's Homepage [here][homepage]
 
 两种方式
 
-    > ![1][pic1]
+    第一种方式： ![1][pic1]
 ![1][pic1]
-    > <img src="/images/1.jpg" width="30%"/>
+
+    第二种方式： <img src="/images/1.jpg" width="30%"/>
 <img src="/images/1.jpg" width="30%"/>
 
 
