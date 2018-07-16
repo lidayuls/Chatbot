@@ -65,8 +65,7 @@ Dayu Li's picture ![1][pic1]
 
 # 公式
 
-$x_1^*=\dfrac{a_{22}r_1-a_{12}r_2}{a_{11}a_{22}-a_{12}a_{21}}$
-
+\[ \frac{1}{3}　 \]
 
 [pic1]:/images/1.jpg
 [homepage]:https://lidayuls.github.io/
