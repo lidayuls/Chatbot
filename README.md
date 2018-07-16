@@ -54,6 +54,8 @@ Dayu Li's Homepage [here][homepage]
 # 图片
 
 Dayu Li's picture ![1][pic1]
+<img src="/images/1.jpg" width="60%"/>
+
 
 # 注释
 <!-- 这是个注释 -->
@@ -72,7 +74,7 @@ CodeCogs 提供了一个[在线 LaTeX 编辑器][eqneditor]，可以将输入的
 
 <img src="https://latex.codecogs.com/gif.latex?p(x|y)&space;=&space;\frac{{p(x,y)}}{{p(y)}}&space;=&space;\frac{{p(y|x)p(x)}}{{p(y)}}" title="p(x|y) = \frac{{p(x,y)}}{{p(y)}} = \frac{{p(y|x)p(x)}}{{p(y)}}" />
 
-[formula][formula]
+![formula][formula]
 
 [pic1]:/images/1.jpg
 [homepage]:https://lidayuls.github.io/
